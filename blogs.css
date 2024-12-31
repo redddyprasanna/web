@@ -1,0 +1,25 @@
+/* Blog Section */
+.blogs {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.blogs article {
+    background: rgba(255, 255, 255, 0.9);
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.blogs article h2 {
+    margin: 0 0 10px;
+    color: #333;
+    font-size: 22px;
+}
+
+.blogs article p {
+    color: #555;
+    line-height: 1.6;
+}

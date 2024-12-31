@@ -1,0 +1,41 @@
+/* New Year Celebrations Section */
+.new-year-celebrations {
+    background: linear-gradient(135deg, #ffefba, #ffffff);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+.new-year-celebrations h2 {
+    color: #d35400;
+    margin-bottom: 15px;
+    font-size: 28px;
+}
+
+.new-year-celebrations ul {
+    list-style: none;
+    padding: 0;
+}
+
+.new-year-celebrations ul li {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #34495e;
+}
+
+.new-year-celebrations ul li strong {
+    color: #e74c3c;
+}
+
+/* Festive Footer */
+footer {
+    margin-top: auto;
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    color: #fff;
+    padding: 15px 0;
+    font-size: 16px;
+    text-align: center;
+}
